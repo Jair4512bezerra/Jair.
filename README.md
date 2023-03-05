@@ -1,2 +1,1 @@
-# Deus1996
-Tudo tudo
+Deus1996
