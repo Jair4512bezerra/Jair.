@@ -1,5 +1,5 @@
 # Built application files
-*.apk
+*.apk ls-la
 *.aar
 *.ap_
 *.aab
