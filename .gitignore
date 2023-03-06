@@ -1,6 +1,6 @@
 # Built application files
 *.apk ls-la
-*.aar
+*.aar ls-la
 *.ap_
 *.aab
 
@@ -82,4 +82,4 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
-# lint/reports/
+# lint/reports/ git/
